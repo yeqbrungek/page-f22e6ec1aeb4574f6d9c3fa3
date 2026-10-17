@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-8eb432bf7f.xiaomianw.cn/sitemap.xml
